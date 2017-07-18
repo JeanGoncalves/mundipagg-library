@@ -1,6 +1,54 @@
 @import "../../styles/base";
 
 header {
-    background-color: $primary-color;
-    color: $secondary-color;
+    display: flex;
+    justify-content: space-between;
+
+    .logo {
+        display: flex;
+        img {
+            height: 3em;
+            padding: 5px 10px;
+        }
+
+        .logo-description {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            color: $primary-color;
+            line-height: 24px;
+
+            :first-child {
+                font-size: 42px;
+                font-weight: bold;
+            }
+            
+            :last-child {
+                font-size: 20px;
+                padding: 2px;
+            }
+        }
+    }
+
+    .cart {
+        align-self: center;
+        padding: 0 25px;
+        position: relative;
+
+        img {
+            width: 30px;
+        }
+
+        .label {
+            position: absolute;
+            top: -8px;
+            right: 15px;
+            background: $secondary-color;
+            color: white;
+            border-radius: 50%;
+            padding: 4px 6px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+    }
 }
