@@ -1,1 +1,43 @@
 @import "../../styles/base";
+
+.list-books {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    margin: 0 14%;
+
+    .book {
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+
+        .content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            .image img {
+                max-width: 100px;
+            }
+
+            .description {
+                padding: 10px;
+
+                .title {
+                    font-size: 20px;
+                    font-weight: bold;
+                }
+
+                .price {
+                    color: $except-color;
+                    padding: 10px 0;
+                }
+            }
+        }
+
+        .button {
+
+        }
+    }
+}
