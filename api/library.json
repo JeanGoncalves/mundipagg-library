@@ -1,0 +1,77 @@
+[
+    {
+        "name": "The Pragmatic Programmer: From Journeyman to Master",
+        "author": "Andrew Hunt & Dave Thomas",
+        "price": 40.00,
+        "quantity": 12,
+        "image": "http://loja.grupoa.com.br/uploads/imagensTitulo/fotoAmpliada_3254.jpg"
+    }, {
+        "name": "The Mythical Man-Month: Essays on Software Engineering",
+        "author": "Frederick P. Brooks",
+        "price": 80.00,
+        "quantity": 1,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51XnDL5KC%2BL.jpg"
+    }, {
+        "name": "Expressões Regulares - Uma Abordagem Divertida",
+        "author": "Aurelio Marinho Jargas",
+        "price": 20.00,
+        "quantity": 13,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41zwWQrTnIL._SX346_BO1,204,203,200_.jpg"
+    }, {
+        "name": "Domain Driven Design: Tackling Complexity in the Heart of Software",
+        "author": "Eric Evans",
+        "price": 120.00,
+        "quantity": 42,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51sZW87slRL.jpg"
+    }, {
+        "name": "Patterns of Enterprise Application Architecture",
+        "author": "Martin Fowler",
+        "price": 32.00,
+        "quantity": 42,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51IuDvAU1CL._SX258_BO1,204,203,200_.jpg"
+    }, {
+        "name": "Epigrams in Programming",
+        "author": "Alan Perils",
+        "price": 31.00,
+        "quantity": 0,
+        "image": ""
+    }, {
+        "name": "Implementing Domain-Driven Design",
+        "author": "Vaughn Vernon",
+        "price": 31.00,
+        "quantity": 42,
+        "image": "http://t0.gstatic.com/images?q=tbn:ANd9GcQUfjn_YmxtRI4pq1R6Ch9bDFjx_KaOhsjF762ByM4aKTqcP5tZ"
+    }, {
+        "name": "Dive Into HTML5",
+        "author": "Mark Pilgrim",
+        "price": 22.00,
+        "quantity": 42,
+        "image": "http://ecx.images-amazon.com/images/I/41gKeER5mVL.jpg"
+    }, {
+        "name": "Scalable Internet Architectures",
+        "author": "Theo Schlossnagle",
+        "price": 18.00,
+        "quantity": 4,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51DtRo3XOJL._SX386_BO1,204,203,200_.jpg"
+    }, {
+        "name": "Refactoring: Improving the Design of Existing Code",
+        "author": "Martin Fowler",
+        "price": 33.00,
+        "quantity": 2,
+        "image": "http://t1.gstatic.com/images?q=tbn:ANd9GcSz8tluFttWwsf8WK7aPafgzvdlu7zgzu224257jCjiY40fMMYq"
+    }, {
+        "name": "Treinamento Em C",
+        "author": "Victorine Viviane Mizrahi",
+        "price": 42.00,
+        "quantity": 6,
+        "image": "http://1.bp.blogspot.com/-PwWsbI5IlXY/VQom8ueGfAI/AAAAAAAAAT8/KDUo45NKt8I/s1600/Treinamento%2Bem%2BLinguagem%2BC%2B%2B%2B-%2BM%C3%B3dulo%2B1%2B-%2BVictorine.jpg"
+    }, {
+        "name": "Algoritmos: Teoria e Prática",
+        "author": "Thomas H. Cormen",
+        "price": 4.60,
+        "quantity": 1,
+        "image": "https://images-submarino.b2w.io/produtos/01/00/item/111052/6/111052655SZ.jpg"
+    }
+]
+
+
