@@ -1,0 +1,35 @@
+@import "../../styles/base";
+
+$template-grid: 60% 1fr 1fr;
+$border-radius: 5px;
+
+.cart-list {
+    margin: 0 10%;
+
+    .table-cart {
+        border-width: 2px;
+        border-style: solid;
+        border-color: $secondary-color;
+        margin: -2px 0;
+        
+        display: grid;
+        grid-template-columns: $template-grid;
+        justify-items: center;
+        padding: 10px;
+
+        :first-child {
+            justify-self: start;
+        }
+    }
+
+    .header {
+        background-color: $secondary-color;
+        color: white;
+        border-top-left-radius: $border-radius;
+        border-top-right-radius: $border-radius;
+    }
+    .footer {
+        border-bottom-left-radius: $border-radius;
+        border-bottom-right-radius: $border-radius;
+    }
+}
